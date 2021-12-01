@@ -1,0 +1,9 @@
+Package: tamtron-qmqtt
+Version: 0.0-1
+Section: libs
+Priority: optional
+Architecture: amd64
+Depends: qt514base (>= 5.14.2)
+Maintainer: Mikko Gynther <mikko.gynther@tamtron.fi>
+Description: emqx qmqtt client
+ QMQTT client

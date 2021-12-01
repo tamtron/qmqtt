@@ -3,3 +3,6 @@
 debug
 release
 *.autosave
+
+debian/opt
+tamtron-qmqtt-*.deb
